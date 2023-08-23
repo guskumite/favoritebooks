@@ -18,7 +18,7 @@ function App() {
       id: 3,
       url: "https://bodegacool.myshopify.com",
       picture:
-        "https://app.prodia.com/art-ai?gclid=Cj0KCQjwoK2mBhDzARIsADGbjepkM3ecI_hSoCtYdTwcC2_kqCgBBftW83UkMvd87JKzrHkASAdJB6caAggnEALw_wcB",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZe20pkN0Xh4aRAKjgN3BH_VP9_7lwN7NJg&usqp=CAU",
     },
     {
       id: 4,
