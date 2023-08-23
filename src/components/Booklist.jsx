@@ -10,7 +10,7 @@ const Booklist = ({ mybooks }) => {
           return (
             <li className="flex flex-col mt-0" key={mybook.id}>
               <img
-                className="ml-2 h-[60vh] align-top"
+                className="ml-2 block h-full"
                 src={mybook.picture}
                 alt={mybook.title}
               />
