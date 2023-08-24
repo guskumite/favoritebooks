@@ -19,6 +19,15 @@ function App() {
       picture:
         "https://images-na.ssl-images-amazon.com/images/I/61oSwPvRWLL._AC_UL225_SR225,160_.jpg",
     },
+    {
+      id: 3,
+      title:
+        "Cats Dogs ID Tags Personalized Lovely Symbols Pets Collar Name Accessories Simple Custom Engraved Products for Extra Small Four Legged Child Necklace Chain Anti-Lost Shiny Stainless Steel Charm",
+      url: "https://amzn.to/47GU3yZ",
+      btntitle: "Buy Now",
+      picture:
+        "https://images-na.ssl-images-amazon.com/images/I/61pFszChatL._AC_UL225_SR225,160_.jpg",
+    },
   ];
   const mybooks = [
     {
