@@ -28,6 +28,13 @@ function App() {
       picture:
         "https://images-na.ssl-images-amazon.com/images/I/61pFszChatL._AC_UL225_SR225,160_.jpg",
     },
+    {
+      id: 4,
+      title: "Canada's Identity Theft & Credit Protection (only Canada)",
+      url: "https://cdnnd.com/srv.html?id=5532544&pub=2791940",
+      btntitle: "Buy Now",
+      picture: "https://cdndn.com/images/campaigns/5532544_120x120.png",
+    },
   ];
   const mybooks = [
     {
