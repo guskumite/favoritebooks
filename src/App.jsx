@@ -61,6 +61,14 @@ function App() {
       picture:
         "https://m.media-amazon.com/images/I/51Av8lN8yiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
     },
+    {
+      id: 4,
+      title:
+        "The top 10 foods for a Keto Diet, Los 10 alimentos para una dieta Keto",
+      url: "https://youtu.be/kx4lr2yBiOI",
+      btntitle: "Watch Now",
+      picture: "https://ibb.co/ys7gD0H",
+    },
   ];
 
   mybooks.push({
