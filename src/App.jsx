@@ -1,5 +1,6 @@
 import "./App.css";
 import Booklist from "./components/Booklist";
+import keto6 from "../public/keto6.png";
 
 function App() {
   const otherStuff = [
@@ -67,7 +68,7 @@ function App() {
         "The top 10 foods for a Keto Diet, Los 10 alimentos para una dieta Keto",
       url: "https://youtu.be/kx4lr2yBiOI",
       btntitle: "Watch Now",
-      picture: "https://i.ibb.co/zfDP1sq/keto6.png",
+      picture: keto6,
     },
   ];
 
