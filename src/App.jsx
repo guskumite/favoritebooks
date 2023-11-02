@@ -70,6 +70,13 @@ function App() {
       btntitle: "Watch Now",
       picture: keto6,
     },
+    {
+      id: 5,
+      title: "The Origin of Opportunity",
+      url: "https://amzn.to/46VZ8CN",
+      btntitle: "Buy Now",
+      picture: "https://m.media-amazon.com/images/I/618p3nw+qWL._SY425_.jpg",
+    },
   ];
 
   mybooks.push({
