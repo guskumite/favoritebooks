@@ -6,14 +6,6 @@ import respCivilMedica from "../public/responsabilidadcivilmedica.png";
 function App() {
   const otherStuff = [
     {
-      id: 1,
-      title: "Bodega cool: Visit my Store in shopify!",
-      url: "https://bodegacool.myshopify.com",
-      btntitle: "Buy Now",
-      picture:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZe20pkN0Xh4aRAKjgN3BH_VP9_7lwN7NJg&usqp=CAU",
-    },
-    {
       id: 2,
       title: "Amazon Basics Neoprene Workout Dumbbell",
       url: "https://amzn.to/3OQwlbb",
@@ -98,7 +90,7 @@ function App() {
 
   return (
     <main>
-      <h1 className="text-xl font-extrabold">Books:</h1>
+      <h1 className="text-xl font-extrabold">Books and offers:</h1>
       <Booklist mybooks={mybooks} />
       <h1 className="text-xl font-extrabold">Miscellaneus:</h1>
       <Booklist mybooks={otherStuff} />
