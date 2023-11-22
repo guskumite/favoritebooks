@@ -1,6 +1,7 @@
 import "./App.css";
 import Booklist from "./components/Booklist";
 import keto6 from "../public/keto6.png";
+import respCivilMedica from "../public/responsabilidadcivilmedica.png";
 
 function App() {
   const otherStuff = [
@@ -39,11 +40,18 @@ function App() {
   ];
   const mybooks = [
     {
-      id: 1,
+      id: 7,
       title: "Amazon books: Hello Beautiful",
       url: "https://amzn.to/45zja5D",
       btntitle: "Buy Now",
       picture: "https://m.media-amazon.com/images/I/51YGx8qVVXL.jpg",
+    },
+    {
+      id: 1,
+      title: "Responsabilidad Civil Médica",
+      url: "https://pam.grantitan.com/web/TrackingWeb/GetOfferRedirectionUrl?parameter=Le6QiwabxM6jiIa0B3LKmJlzR51EBWDdswu1DkPPECk%3D",
+      btntitle: "Cotizar ahora",
+      picture: respCivilMedica,
     },
     {
       id: 2,
@@ -80,7 +88,7 @@ function App() {
   ];
 
   mybooks.push({
-    id: 4,
+    id: 6,
     title: "Free books in Spanish, libros esotéricos en español",
     url: "https://www.libroesoterico.com",
     btntitle: "Visit-Visitar",
